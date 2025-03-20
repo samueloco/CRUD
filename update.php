@@ -5,9 +5,9 @@
     $EdID = '';
     $EdName = '';
     $EdAge = '';
-    $EdAddress = '';
-    $EdUsername = '';
-    $EdPassword = '';
+    $EdSchool = '';
+    $EdGrade = '';
+    $EdSection = '';
     
     if(isset($_POST['edit'])){
         $EdId = $_POST['edId'];
